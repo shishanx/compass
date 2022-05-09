@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/compass/static/css/main.00eec75c.css",
-    "main.js": "/compass/static/js/main.bf26c635.js",
+    "main.js": "/compass/static/js/main.9d651c6a.js",
     "static/js/27.4885201b.chunk.js": "/compass/static/js/27.4885201b.chunk.js",
     "static/media/character_filter.png": "/compass/static/media/character_filter.1d67f30432868402c71e.png",
     "static/media/compass_mark_filter.png": "/compass/static/media/compass_mark_filter.9ff7f8ee6c4b9a5bccde.png",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.00eec75c.css",
-    "static/js/main.bf26c635.js"
+    "static/js/main.9d651c6a.js"
   ]
 }
