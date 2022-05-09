@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/compass/static/css/main.4efb37a3.css",
-    "main.js": "/compass/static/js/main.8cd99b9b.js",
+    "main.css": "/compass/static/css/main.00eec75c.css",
+    "main.js": "/compass/static/js/main.e5c1843e.js",
     "static/js/27.4885201b.chunk.js": "/compass/static/js/27.4885201b.chunk.js",
     "static/media/character_filter.png": "/compass/static/media/character_filter.1d67f30432868402c71e.png",
     "static/media/compass_mark_filter.png": "/compass/static/media/compass_mark_filter.9ff7f8ee6c4b9a5bccde.png",
@@ -11,7 +11,7 @@
     "index.html": "/compass/index.html"
   },
   "entrypoints": [
-    "static/css/main.4efb37a3.css",
-    "static/js/main.8cd99b9b.js"
+    "static/css/main.00eec75c.css",
+    "static/js/main.e5c1843e.js"
   ]
 }
