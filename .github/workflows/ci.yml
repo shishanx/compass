@@ -2,13 +2,15 @@ name: line message
 on:
   push:
     branches:
-      - "releases/gh-pages"
+      - gh-pages
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
+        with:
+          token: ${{ secrets.PAT }}
       - name: send default message
         uses: louis70109/line-notify-action@master
         with:
