@@ -1,5 +1,8 @@
 name: line message
-on: [push]
+on:
+  push:
+    branches:
+      - gh-pages
 jobs:
   build:
     name: Build
@@ -11,4 +14,4 @@ jobs:
         with:
           token: ${{ secrets.LINE_NOTIFY_TOKEN }}
           message: |
-            Commit: ${{ github.event.head_commit.message }}
+            ${{ github.event.head_commit.message }}
