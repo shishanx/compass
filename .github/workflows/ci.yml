@@ -2,7 +2,7 @@ name: line message
 on:
   push:
     branches:
-      - "gh-pages"
+      - "releases/gh-pages"
 jobs:
   build:
     name: Build
