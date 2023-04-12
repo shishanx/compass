@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/compass/static/css/main.00eec75c.css",
-    "main.js": "/compass/static/js/main.fc4be2b0.js",
+    "main.js": "/compass/static/js/main.a4b76945.js",
     "static/js/27.8cae7b4c.chunk.js": "/compass/static/js/27.8cae7b4c.chunk.js",
     "static/media/c0.mp3": "/compass/static/media/c0.0d26904e56d204886247.mp3",
     "static/media/c4.mp3": "/compass/static/media/c4.85bb990ce9822019d779.mp3",
@@ -87,6 +87,7 @@
     "static/media/12.jpg": "/compass/static/media/12.cdb54a8d5c29f2c52691.jpg",
     "static/media/c12.jpg": "/compass/static/media/c12.942caadd64fc47fd4780.jpg",
     "static/media/c28.jpg": "/compass/static/media/c28.d9e86379e48f73a093b1.jpg",
+    "static/media/c32.jpg": "/compass/static/media/c32.3734cc28442d7d647bdc.jpg",
     "static/media/c10.jpg": "/compass/static/media/c10.f09ca3a86c677e9378fe.jpg",
     "static/media/c31.jpg": "/compass/static/media/c31.f7ffd215b015dc278123.jpg",
     "static/media/c1.jpg": "/compass/static/media/c1.f6dab4a087a12b785cb2.jpg",
@@ -98,6 +99,6 @@
   },
   "entrypoints": [
     "static/css/main.00eec75c.css",
-    "static/js/main.fc4be2b0.js"
+    "static/js/main.a4b76945.js"
   ]
 }
