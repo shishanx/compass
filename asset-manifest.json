@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/compass/static/css/main.00eec75c.css",
-    "main.js": "/compass/static/js/main.a18b11ab.js",
+    "main.js": "/compass/static/js/main.80b45d18.js",
     "static/js/27.8cae7b4c.chunk.js": "/compass/static/js/27.8cae7b4c.chunk.js",
     "static/media/c0.mp3": "/compass/static/media/c0.0d26904e56d204886247.mp3",
     "static/media/c4.mp3": "/compass/static/media/c4.85bb990ce9822019d779.mp3",
@@ -99,6 +99,6 @@
   },
   "entrypoints": [
     "static/css/main.00eec75c.css",
-    "static/js/main.a18b11ab.js"
+    "static/js/main.80b45d18.js"
   ]
 }
